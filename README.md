@@ -1,0 +1,1 @@
+The aim of this project was to carry out EDA(Exploratory Data Analysis) on the Pima Indians Diabetes Database, which can be found: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database. This project was carried out by Uwaila Ekhator and Ajewole Christopher Oluwapeluumi.
